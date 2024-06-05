@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be22d9ec-10b2-4916-83ff-23f60340fa9b" name="Changes" comment="Changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/GGshinfo/PLM-T3SE.git" />
+      </set>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IeqC3PemuGhEDEaYm72BYlqLxf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pycharmproject\t3se_code\ROC curve" />
+      <recent name="$PROJECT_DIR$/feature_t3se/T5" />
+      <recent name="$PROJECT_DIR$/feature_t3se/Bert" />
+      <recent name="$PROJECT_DIR$/feature_t3se/XLNet" />
+      <recent name="$PROJECT_DIR$/feature_t3se/ALbert" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharmproject\t3se_code\code" />
+      <recent name="D:\pycharmproject\t3se_code\ROC curve" />
+      <recent name="D:\pycharmproject\t3se_code\fig" />
+      <recent name="D:\图片" />
+      <recent name="D:\pycharmproject\t3se_code\data_t3se\train_1491" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.single-fuse-all">
+    <configuration name="ROC-PR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProtTrans" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ROC curve" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ROC curve/ROC-PR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_XGB_mlp_fuse_T5_threshold" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProtTrans" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/get_XGB_mlp_fuse_T5_threshold.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="single-fuse-all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProtTrans" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fig" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fig/single-fuse-all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="single-fuse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProtTrans" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fig" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fig/single-fuse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t5_basic" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ProtTrans" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t5_basic.py" />
+      <option name="PARAMETERS" value="-p ./train_p.fasta.txt -m all -n prot_xlnet" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tsen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProtTrans" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/tsen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.t5_basic" />
+      <item itemvalue="Python.tsen" />
+      <item itemvalue="Python.ROC-PR" />
+      <item itemvalue="Python.single-fuse" />
+      <item itemvalue="Python.single-fuse-all" />
+      <item itemvalue="Python.get_XGB_mlp_fuse_T5_threshold" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.single-fuse-all" />
+        <item itemvalue="Python.get_XGB_mlp_fuse_T5_threshold" />
+        <item itemvalue="Python.single-fuse" />
+        <item itemvalue="Python.ROC-PR" />
+        <item itemvalue="Python.tsen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be22d9ec-10b2-4916-83ff-23f60340fa9b" name="Changes" comment="" />
+      <created>1670552265110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670552265110</updated>
+      <workItem from="1670552266352" duration="10756000" />
+      <workItem from="1670571401856" duration="4868000" />
+      <workItem from="1670650274940" duration="4987000" />
+      <workItem from="1670665565224" duration="9000" />
+      <workItem from="1670732515059" duration="609000" />
+      <workItem from="1671084882079" duration="1961000" />
+      <workItem from="1676969110535" duration="2078000" />
+      <workItem from="1678186273020" duration="656000" />
+      <workItem from="1678361031768" duration="71000" />
+      <workItem from="1678361717737" duration="403000" />
+      <workItem from="1678599979470" duration="3230000" />
+      <workItem from="1678603992336" duration="7000" />
+      <workItem from="1678609837868" duration="3720000" />
+      <workItem from="1678868273466" duration="142000" />
+      <workItem from="1678869268719" duration="660000" />
+      <workItem from="1679554105347" duration="1522000" />
+      <workItem from="1679556052379" duration="11000" />
+      <workItem from="1679920627048" duration="1674000" />
+      <workItem from="1679925505607" duration="190000" />
+      <workItem from="1679970317716" duration="281000" />
+      <workItem from="1680009377897" duration="101000" />
+      <workItem from="1690343718632" duration="60830000" />
+      <workItem from="1691553360038" duration="21380000" />
+      <workItem from="1695260719054" duration="50710000" />
+      <workItem from="1699867230903" duration="2682000" />
+      <workItem from="1699888824062" duration="1221000" />
+      <workItem from="1699892830546" duration="1011000" />
+      <workItem from="1699944647778" duration="155000" />
+      <workItem from="1700064719723" duration="13456000" />
+      <workItem from="1701329878408" duration="1426000" />
+      <workItem from="1701499530252" duration="60332000" />
+      <workItem from="1702528525985" duration="19187000" />
+      <workItem from="1703219046837" duration="1499000" />
+      <workItem from="1704796370112" duration="19415000" />
+      <workItem from="1704940715220" duration="622000" />
+      <workItem from="1705200927870" duration="641000" />
+      <workItem from="1705201583713" duration="39000" />
+      <workItem from="1705201631366" duration="402000" />
+      <workItem from="1705327751020" duration="688000" />
+      <workItem from="1709002255797" duration="654000" />
+      <workItem from="1715308033725" duration="13000" />
+      <workItem from="1715308057029" duration="1484000" />
+      <workItem from="1715309867513" duration="8026000" />
+      <workItem from="1715483476977" duration="7562000" />
+      <workItem from="1716020995510" duration="20453000" />
+      <workItem from="1716967839171" duration="13903000" />
+      <workItem from="1716993547291" duration="622000" />
+      <workItem from="1717039200227" duration="1274000" />
+      <workItem from="1717066542864" duration="4820000" />
+      <workItem from="1717473309761" duration="16703000" />
+      <workItem from="1717569415232" duration="1154000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1717553107810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717553107810</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes">
+      <created>1717569559585</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717569559585</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2291" y="229" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1717481700520">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state x="2291" y="229" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1717481700520" />
+    <state x="1920" y="106" width="1280" height="776" key="DiffContextDialog" timestamp="1717557923294">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state x="1920" y="106" width="1280" height="776" key="DiffContextDialog/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1717557923294" />
+    <state x="2341" y="244" key="FileChooserDialogImpl" timestamp="1716266207064">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state x="421" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1709002286923" />
+    <state x="2341" y="244" key="FileChooserDialogImpl/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1716266207064" />
+    <state x="508" y="265" key="Github.ShareDialog" timestamp="1717569238437">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="508" y="265" key="Github.ShareDialog/0.0.1280.752@0.0.1280.752" timestamp="1717569238437" />
+    <state x="2428" y="379" key="Github.ShareDialog/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1717559587564" />
+    <state x="465" y="78" key="Github.UntrackedFilesDialog" timestamp="1717569243542">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="465" y="78" key="Github.UntrackedFilesDialog/0.0.1280.752@0.0.1280.752" timestamp="1717569243542" />
+    <state x="2385" y="187" key="Github.UntrackedFilesDialog/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1717559599228" />
+    <state width="1237" height="120" key="GridCell.Tab.0.bottom" timestamp="1717306480202">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state width="1234" height="236" key="GridCell.Tab.0.bottom/0.0.1280.752@0.0.1280.752" timestamp="1715577663076" />
+    <state width="1877" height="310" key="GridCell.Tab.0.bottom/1920.106.1280.776/0.0.1920.1032@0.0.1920.1032" timestamp="1716190075788" />
+    <state width="1237" height="120" key="GridCell.Tab.0.bottom/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1717306480202" />
+    <state width="1237" height="120" key="GridCell.Tab.0.center" timestamp="1717306480202">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state width="1234" height="236" key="GridCell.Tab.0.center/0.0.1280.752@0.0.1280.752" timestamp="1715577663076" />
+    <state width="1877" height="310" key="GridCell.Tab.0.center/1920.106.1280.776/0.0.1920.1032@0.0.1920.1032" timestamp="1716190075787" />
+    <state width="1237" height="120" key="GridCell.Tab.0.center/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1717306480202" />
+    <state width="1237" height="120" key="GridCell.Tab.0.left" timestamp="1717306480202">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state width="1234" height="236" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.752" timestamp="1715577663075" />
+    <state width="1877" height="310" key="GridCell.Tab.0.left/1920.106.1280.776/0.0.1920.1032@0.0.1920.1032" timestamp="1716190075787" />
+    <state width="1237" height="120" key="GridCell.Tab.0.left/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1717306480202" />
+    <state width="1237" height="120" key="GridCell.Tab.0.right" timestamp="1717306480202">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state width="1234" height="236" key="GridCell.Tab.0.right/0.0.1280.752@0.0.1280.752" timestamp="1715577663076" />
+    <state width="1877" height="310" key="GridCell.Tab.0.right/1920.106.1280.776/0.0.1920.1032@0.0.1920.1032" timestamp="1716190075788" />
+    <state width="1237" height="120" key="GridCell.Tab.0.right/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1717306480202" />
+    <state width="1237" height="110" key="GridCell.Tab.1.bottom" timestamp="1716983361014">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state width="1238" height="209" key="GridCell.Tab.1.bottom/0.0.1280.752@0.0.1280.752" timestamp="1715312425270" />
+    <state width="1877" height="310" key="GridCell.Tab.1.bottom/1920.106.1280.776/0.0.1920.1032@0.0.1920.1032" timestamp="1716190024269" />
+    <state width="1237" height="110" key="GridCell.Tab.1.bottom/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1716983361014" />
+    <state width="1237" height="110" key="GridCell.Tab.1.center" timestamp="1716983361014">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state width="1238" height="209" key="GridCell.Tab.1.center/0.0.1280.752@0.0.1280.752" timestamp="1715312425270" />
+    <state width="1877" height="310" key="GridCell.Tab.1.center/1920.106.1280.776/0.0.1920.1032@0.0.1920.1032" timestamp="1716190024269" />
+    <state width="1237" height="110" key="GridCell.Tab.1.center/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1716983361014" />
+    <state width="1237" height="110" key="GridCell.Tab.1.left" timestamp="1716983361014">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state width="1238" height="209" key="GridCell.Tab.1.left/0.0.1280.752@0.0.1280.752" timestamp="1715312425270" />
+    <state width="1877" height="310" key="GridCell.Tab.1.left/1920.106.1280.776/0.0.1920.1032@0.0.1920.1032" timestamp="1716190024269" />
+    <state width="1237" height="110" key="GridCell.Tab.1.left/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1716983361014" />
+    <state width="1237" height="110" key="GridCell.Tab.1.right" timestamp="1716983361014">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state width="1238" height="209" key="GridCell.Tab.1.right/0.0.1280.752@0.0.1280.752" timestamp="1715312425270" />
+    <state width="1877" height="310" key="GridCell.Tab.1.right/1920.106.1280.776/0.0.1920.1032@0.0.1920.1032" timestamp="1716190024269" />
+    <state width="1237" height="110" key="GridCell.Tab.1.right/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1716983361014" />
+    <state x="276" y="137" key="MultipleFileMergeDialog" timestamp="1717569825017">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="276" y="137" key="MultipleFileMergeDialog/0.0.1280.752@0.0.1280.752" timestamp="1717569825017" />
+    <state x="2062" y="127" key="SettingsEditor" timestamp="1717558734457">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state x="2062" y="127" key="SettingsEditor/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1717558734457" />
+    <state x="233" y="106" key="Vcs.Push.Dialog.v2" timestamp="1717569483702">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="233" y="106" key="Vcs.Push.Dialog.v2/0.0.1280.752@0.0.1280.752" timestamp="1717569483702" />
+    <state x="2153" y="215" key="Vcs.Push.Dialog.v2/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1717559943434" />
+    <state x="2262" y="106" width="594" height="776" key="find.popup" timestamp="1716187644542">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state x="2262" y="106" width="594" height="776" key="find.popup/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1716187644542" />
+    <state x="2266" y="269" key="git4idea.merge.GitPullDialog" timestamp="1717557848530">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state x="2266" y="269" key="git4idea.merge.GitPullDialog/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1717557848530" />
+    <state x="451" y="270" key="git4idea.ui.GitResetDialog" timestamp="1717569352774">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="451" y="270" key="git4idea.ui.GitResetDialog/0.0.1280.752@0.0.1280.752" timestamp="1717569352774" />
+    <state x="2223" y="204" width="672" height="678" key="search.everywhere.popup" timestamp="1716981565526">
+      <screen x="1920" y="106" width="1280" height="776" />
+    </state>
+    <state x="2223" y="204" width="672" height="678" key="search.everywhere.popup/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1716981565526" />
+    <state x="770" y="298" key="svn.repositoryBrowser" timestamp="1717569207284">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="770" y="298" key="svn.repositoryBrowser/0.0.1280.752@0.0.1280.752" timestamp="1717569207284" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_train_XLNet_mlp.coverage" NAME="prot_train_XLNet_mlp 覆盖结果" MODIFIED="1691386722209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_SVM_830D_5fold_ACC.coverage" NAME="get_SVM_830D_5fold_ACC Coverage Results" MODIFIED="1704869280390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ROC curve/5Fold" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_pssm_based_mlp.coverage" NAME="get_pssm-based_mlp Coverage Results" MODIFIED="1715501932931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_pssm_based_mlp2.coverage" NAME="get_pssm-based_mlp2 Coverage Results" MODIFIED="1715501935422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_Pssm_AAC_DPC_T5BFD_svm.coverage" NAME="get_Pssm_AAC_DPC_T5BFD_svm 覆盖结果" MODIFIED="1690517651270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_Pssm_AAC_DPC_T5_svm.coverage" NAME="get_Pssm_AAC_DPC_T5_svm 覆盖结果" MODIFIED="1702537309968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_mlp_fuse_ALBert.coverage" NAME="get_XGB_mlp_fuse_ALBert 覆盖结果" MODIFIED="1691561912266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_RF_fuse_T5.coverage" NAME="get_XGB_RF_fuse_T5 覆盖结果" MODIFIED="1702528955617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_SVM_110D5fold_ProbaIndex.coverage" NAME="get_SVM_110D5fold_ProbaIndex Coverage Results" MODIFIED="1704892190815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ROC curve" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_XGB_mlp_fuse_T5_800_prame.coverage" NAME="get_XGB_mlp_fuse_T5_800-prame Coverage Results" MODIFIED="1716096851402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_esm_pssm_feature.coverage" NAME="get_esm_pssm_feature 覆盖结果" MODIFIED="1701866198840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esm" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_mlp_fuse_XLNet.coverage" NAME="get_XGB_mlp_fuse_XLNet 覆盖结果" MODIFIED="1691640618506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_mlp_fuse_T5_800_prame1.coverage" NAME="get_XGB_mlp_fuse_T5_800-prame1 覆盖结果" MODIFIED="1703821052574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_knn_fuse_T5.coverage" NAME="get_XGB_knn_fuse_T5 覆盖结果" MODIFIED="1698763376449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_SVM_Pssm_AAC_DPC_T5BFD.coverage" NAME="get_XGB_SVM_Pssm_AAC_DPC_T5BFD 覆盖结果" MODIFIED="1690559721438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_SVM_Pssm_AAC_DPC_Bert.coverage" NAME="get_XGB_SVM_Pssm_AAC_DPC_Bert 覆盖结果" MODIFIED="1690559571842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_train_T5_svm_tsen.coverage" NAME="prot_train_T5_svm_tsen 覆盖结果" MODIFIED="1701336104459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$esm2_1280de_mlp.coverage" NAME="esm2_1280de_mlp 覆盖结果" MODIFIED="1702172346955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esm" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_esm_feature.coverage" NAME="get_esm_feature 覆盖结果" MODIFIED="1701865833418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esm" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_mlp_fuse_T5_800d_1000d_2.coverage" NAME="get_XGB_mlp_fuse_T5_800d-1000d_2 覆盖结果" MODIFIED="1703035995051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_bert_advanced.coverage" NAME="prot_bert_advanced Coverage Results" MODIFIED="1670651667659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_GBM_110D_5fold_ProbaIndex.coverage" NAME="get_GBM_110D_5fold_ProbaIndex Coverage Results" MODIFIED="1704887386277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ROC curve" />
+    <SUITE FILE_PATH="coverage/t3se_code$single_fuse_all.coverage" NAME="single-fuse-all Coverage Results" MODIFIED="1717165876123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fig" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_feature.coverage" NAME="get_esm_feature 覆盖结果" MODIFIED="1701846473081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esm" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_XGB_mlp_fuse_T5_800_prame1.coverage" NAME="get_XGB_mlp_fuse_T5_800-prame1 Coverage Results" MODIFIED="1716103596346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_RF_110D_5fold_ProbaIndex.coverage" NAME="get_RF_110D_5fold_ProbaIndex Coverage Results" MODIFIED="1704888056198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ROC curve" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_GBM_fuse_T5.coverage" NAME="get_XGB_GBM_fuse_T5 覆盖结果" MODIFIED="1698763718644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_fuse_T5_mlp.coverage" NAME="get_fuse_T5_mlp 覆盖结果" MODIFIED="1701848534149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$fuse_esm2_640de_mlp.coverage" NAME="fuse_esm2_640de_mlp 覆盖结果" MODIFIED="1701915154313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esm" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_nb_fuse_T5.coverage" NAME="get_XGB_nb_fuse_T5 覆盖结果" MODIFIED="1700069880469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_train.coverage" NAME="prot_train 覆盖结果" MODIFIED="1690441293591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_RF_830D_5fold_ACC.coverage" NAME="get_RF_830D_5fold_ACC Coverage Results" MODIFIED="1704871862316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ROC curve/5Fold" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_fuse_XLNet_mlp.coverage" NAME="get_fuse_XLNet_mlp 覆盖结果" MODIFIED="1691555647865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_train_Bert.coverage" NAME="prot_train_Bert 覆盖结果" MODIFIED="1690441802846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_KNN_830D_5fold_ACC.coverage" NAME="get_KNN_830D_5fold_ACC Coverage Results" MODIFIED="1704873998043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ROC curve/5Fold" />
+    <SUITE FILE_PATH="coverage/t3se_code$tsen.coverage" NAME="tsen Coverage Results" MODIFIED="1716971203000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_MLP_830D5fold_ProbaIndex.coverage" NAME="get_MLP_830D5fold_ProbaIndex Coverage Results" MODIFIED="1704888988518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ROC curve" />
+    <SUITE FILE_PATH="coverage/ProtTrans$fuse_esm1b_1280de_mlp.coverage" NAME="fuse_esm1b_1280de_mlp 覆盖结果" MODIFIED="1701919898812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esm" />
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_train_T5_mlp.coverage" NAME="prot_train_T5_mlp 覆盖结果" MODIFIED="1701908260618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_mlp_fuse_T5_800_prame.coverage" NAME="get_XGB_mlp_fuse_T5_800-prame 覆盖结果" MODIFIED="1703816982838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_XGB_mlp_fuse_T5_threshold.coverage" NAME="get_XGB_mlp_fuse_T5_threshold Coverage Results" MODIFIED="1717068936762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_Pssm_AAC_DPC_Bert_svm.coverage" NAME="get_Pssm_AAC_DPC_Bert_svm 覆盖结果" MODIFIED="1690517899570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_Pssm_AAC_DPC_ALbert_svm.coverage" NAME="get_Pssm_AAC_DPC_ALbert_svm 覆盖结果" MODIFIED="1690517912460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_mlp_fuse_T5.coverage" NAME="get_XGB_mlp_fuse_T5 覆盖结果" MODIFIED="1702528976776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$esm2_640de_mlp.coverage" NAME="esm2_640de_mlp 覆盖结果" MODIFIED="1701909717223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esm" />
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_train_Bert_mlp.coverage" NAME="prot_train_Bert_mlp 覆盖结果" MODIFIED="1691386689549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_fuse_Bert_mlp.coverage" NAME="get_fuse_Bert_mlp 覆盖结果" MODIFIED="1691555651118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_bert.coverage" NAME="prot_bert Coverage Results" MODIFIED="1670566598672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_NB_110D_5fold_ProbaIndex.coverage" NAME="get_NB_110D_5fold_ProbaIndex Coverage Results" MODIFIED="1704858595514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ROC curve" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_SVM_Pssm_AAC_DPC_T5.coverage" NAME="get_XGB_SVM_Pssm_AAC_DPC_T5 覆盖结果" MODIFIED="1702556657523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_SVM_Pssm_AAC_DPC_XLNet.coverage" NAME="get_XGB_SVM_Pssm_AAC_DPC_XLNet 覆盖结果" MODIFIED="1690547519464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_SVM_Pssm_AAC_DPC_T5_datatest111.coverage" NAME="get_XGB_SVM_Pssm_AAC_DPC_T5_datatest111 覆盖结果" MODIFIED="1695285807921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$esm1b_mlp.coverage" NAME="esm1b_1280de_mlp 覆盖结果" MODIFIED="1701853463162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esm" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_Pssm_AAC_DPC_BertBFD_svm.coverage" NAME="get_Pssm_AAC_DPC_BertBFD_svm 覆盖结果" MODIFIED="1690518076904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_train_XLNet.coverage" NAME="prot_train_XLNet 覆盖结果" MODIFIED="1690441903545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_NB_830D_5fold_ACC.coverage" NAME="get_NB_830D_5fold_ACC Coverage Results" MODIFIED="1704895999608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ROC curve/5Fold" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_prot_feature.coverage" NAME="get_prot_feature 覆盖结果" MODIFIED="1690441269243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_Pssm_AAC_DPC_XLNet_svm.coverage" NAME="get_Pssm_AAC_DPC_XLNet_svm 覆盖结果" MODIFIED="1690517967704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_GBM_830D_5fold_ACC.coverage" NAME="get_GBM_830D_5fold_ACC Coverage Results" MODIFIED="1704874169647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ROC curve/5Fold" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_mlp_fuse_T5_datatest.coverage" NAME="get_XGB_mlp_fuse_T5_datatest 覆盖结果" MODIFIED="1695285626586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_fuse_ALbert_mlp.coverage" NAME="get_fuse_ALbert_mlp 覆盖结果" MODIFIED="1691555654250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_pssm_based_mlp3.coverage" NAME="get_pssm-based_mlp3 Coverage Results" MODIFIED="1715501937762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_fuse_esm2_640de_mlp.coverage" NAME="fuse_esm2_640de_mlp 覆盖结果" MODIFIED="1701866429999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esm" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_SVM_Pssm_AAC_DPC_BertBFD.coverage" NAME="get_XGB_SVM_Pssm_AAC_DPC_BertBFD 覆盖结果" MODIFIED="1690559643417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_850D.coverage" NAME="get_850D Coverage Results" MODIFIED="1716103130134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$t5_test.coverage" NAME="t5_test Coverage Results" MODIFIED="1678612781935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_train_BertBFD.coverage" NAME="prot_train_BertBFD 覆盖结果" MODIFIED="1690513584181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_fuse_T5_dnn.coverage" NAME="get_fuse_T5_dnn 覆盖结果" MODIFIED="1696587081125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_mlp_fuse_Bert.coverage" NAME="get_XGB_mlp_fuse_Bert 覆盖结果" MODIFIED="1691640613904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$ROC_PR.coverage" NAME="ROC-PR Coverage Results" MODIFIED="1716972565059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ROC curve" />
+    <SUITE FILE_PATH="coverage/ProtTrans$run.coverage" NAME="run Coverage Results" MODIFIED="1670651826221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_train_T5BFD.coverage" NAME="prot_train_T5BFD 覆盖结果" MODIFIED="1690442392238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$t5_advanced.coverage" NAME="t5_advanced 覆盖结果" MODIFIED="1701782514414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/t3se_code$single_fuse.coverage" NAME="single-fuse Coverage Results" MODIFIED="1716982002249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fig" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_SVM_Pssm_AAC_DPC_ALBert.coverage" NAME="get_XGB_SVM_Pssm_AAC_DPC_ALBert 覆盖结果" MODIFIED="1690559452842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_KNN_110D_5fold_ProbaIndex.coverage" NAME="get_KNN_110D_5fold_ProbaIndex Coverage Results" MODIFIED="1704887961699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ROC curve" />
+    <SUITE FILE_PATH="coverage/ProtTrans$fuse_esm2_1280de_mlp.coverage" NAME="fuse_esm2_1280de_mlp 覆盖结果" MODIFIED="1701919906096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esm" />
+    <SUITE FILE_PATH="coverage/ProtTrans$main.coverage" NAME="t5 Coverage Results" MODIFIED="1670553268075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProtTrans$t5_basic.coverage" NAME="t5_basic 覆盖结果" MODIFIED="1701783591743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_bert_basic.coverage" NAME="prot_bert_basic Coverage Results" MODIFIED="1676970303842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/t3se_code$ROC.coverage" NAME="ROC Coverage Results" MODIFIED="1704895426239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ROC curve" />
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_train_ALbert_mlp.coverage" NAME="prot_train_ALbert_mlp 覆盖结果" MODIFIED="1691386766617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$.coverage" NAME="合并 Coverage Results" MODIFIED="1676970530224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProtTrans$fuse_feature.coverage" NAME="fuse_feature 覆盖结果" MODIFIED="1698749535135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/t3se_code$get_830D__1_.coverage" NAME="get_830D (1) Coverage Results" MODIFIED="1704858550832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$prot_train_ALbert.coverage" NAME="prot_train_ALbert 覆盖结果" MODIFIED="1690441719058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$XGB_fuse_esm2_640de_mlp.coverage" NAME="XGB_fuse_esm2_640de_mlp 覆盖结果" MODIFIED="1701913872757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esm" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_mlp_fuse_T5_800d_1000d.coverage" NAME="get_XGB_mlp_fuse_T5_800d-1000d 覆盖结果" MODIFIED="1702914245552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_SVM_Pssm_AAC_DPC_T5_datatest.coverage" NAME="get_XGB_SVM_Pssm_AAC_DPC_T5_datatest 覆盖结果" MODIFIED="1695285664547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ProtTrans$esm_mlp.coverage" NAME="esm2_640de_mlp 覆盖结果" MODIFIED="1701853460528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esm" />
+    <SUITE FILE_PATH="coverage/ProtTrans$esm1b_1280de_mlp.coverage" NAME="esm1b_1280de_mlp 覆盖结果" MODIFIED="1701913316879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esm" />
+    <SUITE FILE_PATH="coverage/ProtTrans$get_XGB_mlp_fuse_T5_830D.coverage" NAME="get_XGB_mlp_fuse_T5_830D 覆盖结果" MODIFIED="1703816193744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+</project>
