@@ -115,7 +115,7 @@ if __name__=='__main__':
     sec_struct = 0
 
     #这里更改数据的路径
-    path='data_t3se/train_1491/'
+    path= 'dataset_PLM_T3SE/train_1491/'
     filename='train.txt'
     seq_dict=get_seq(path,filename)
     results, res_names = get_embeddings(model, tokenizer, seq_dict,

@@ -79,7 +79,7 @@ def get_sequence_feature(file):
 X, Y = get_T5_feature()
 X1 = get_PSSM_feature()
 Y1=Y
-#encoded_matrix = get_sequence_feature('../data_t3se/train_1491/allTrain.txt')
+#encoded_matrix = get_sequence_feature('../dataset_PLM_T3SE/train_1491/allTrain.txt')
 tsne = TSNE(n_components=2, verbose=0, perplexity=50, learning_rate='auto', n_iter=5000, random_state=123)
 z = tsne.fit_transform(X)
 df =  pd.DataFrame()

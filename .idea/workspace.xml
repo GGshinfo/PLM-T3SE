@@ -19,7 +19,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be22d9ec-10b2-4916-83ff-23f60340fa9b" name="Changes" comment="Changes" />
+    <list default="true" id="be22d9ec-10b2-4916-83ff-23f60340fa9b" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -307,6 +310,7 @@
       <workItem from="1717066542864" duration="4820000" />
       <workItem from="1717473309761" duration="16703000" />
       <workItem from="1717569415232" duration="1154000" />
+      <workItem from="1717570603129" duration="1570000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1717553107810</created>
@@ -350,6 +354,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes" />
@@ -369,15 +374,15 @@
     </state>
     <state x="421" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1709002286923" />
     <state x="2341" y="244" key="FileChooserDialogImpl/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1716266207064" />
-    <state x="508" y="265" key="Github.ShareDialog" timestamp="1717569238437">
+    <state x="508" y="265" key="Github.ShareDialog" timestamp="1717570698586">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
-    <state x="508" y="265" key="Github.ShareDialog/0.0.1280.752@0.0.1280.752" timestamp="1717569238437" />
+    <state x="508" y="265" key="Github.ShareDialog/0.0.1280.752@0.0.1280.752" timestamp="1717570698586" />
     <state x="2428" y="379" key="Github.ShareDialog/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1717559587564" />
-    <state x="465" y="78" key="Github.UntrackedFilesDialog" timestamp="1717569243542">
+    <state x="465" y="78" key="Github.UntrackedFilesDialog" timestamp="1717570707673">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
-    <state x="465" y="78" key="Github.UntrackedFilesDialog/0.0.1280.752@0.0.1280.752" timestamp="1717569243542" />
+    <state x="465" y="78" key="Github.UntrackedFilesDialog/0.0.1280.752@0.0.1280.752" timestamp="1717570707673" />
     <state x="2385" y="187" key="Github.UntrackedFilesDialog/1920.106.1280.776/0.0.1920.1032@1920.106.1280.776" timestamp="1717559599228" />
     <state width="1237" height="120" key="GridCell.Tab.0.bottom" timestamp="1717306480202">
       <screen x="1920" y="106" width="1280" height="776" />
